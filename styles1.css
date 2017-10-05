@@ -1,0 +1,270 @@
+ody {
+  font-size: 16px;
+  color: #404040;
+}
+a {
+  text-decoration: none;
+  color: #404040;
+}
+header {
+}
+.second {
+  padding-bottom: 16px;
+  border-bottom: 1px solid #ddd;
+}
+.inverse {
+  background-color: #F5F5F5;
+  padding-bottom: 10px;
+}
+.top-search-bar {
+  float: left;
+  margin-top: 14px;
+  margin-left: 20px;
+}
+.top-search-bar form {
+  margin: 0;
+  padding: 0;
+}
+.top-search-bar a img {
+  vertical-align: middle;
+  margin: 0 8px 2px 8px;
+  height: 19px;
+}
+.top-search-bar .btn {
+  border-radius: 0 2px 2px 0;
+}
+.top-search-bar input {
+  width: 600px;
+  border-radius: 2px 0 0 2px;
+  display: inline-block;
+}
+nav {
+  width: 100%;
+  float: right;
+  font-size: 12px;
+  padding: 0;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  margin-top: 20px;
+}
+nav li {
+  display: inline-block;
+  margin: 0 10px;
+}
+nav li a:hover {
+  text-decoration: underline;
+}
+.apps {
+  vertical-align: middle;
+  margin-bottom: 2px;
+}
+.btn {
+  padding: 6px 10px;
+  text-decoration: none;
+  border-radius: 2px;
+  font-weight: bold;
+  background-color: #F5F5F5;
+  border: 1px solid #ddd;
+  color: #666;
+}
+.btn:hover {
+  text-decoration: none;
+}
+.btn-default {
+  margin: 0 6px;
+  font-size: 10px;
+  color: #666;
+  background-color: #F5F5F5;
+  border: 1px solid #ddd;
+}
+.btn-options {
+  margin-top: 20px;
+  padding-right: 10px;
+}
+.btn-blue {
+  color: white;
+  background-color: #4683EA;
+  border: 1px solid #4285F4;
+}
+.container {
+/*  clear: both;*/
+  margin-top: 150px;
+}
+.logo {
+  background: url("https://www.google.co.uk/images/srpr/logo11w.png");
+  background-size: 269px 95px;
+  width: 269px;
+  height: 95px;
+  margin: 0 auto;
+  position: relative;
+}
+.logo-small {
+  background-size: 92px 33px;
+  width: 92px;
+  height: 33px;
+  float: left;
+  margin: 14px 0 0 16px;
+}
+.logo span {
+  color: #777;
+  font-weight: bold;
+  position: absolute;
+  bottom: 6px;
+  right: 26px;
+}
+form {
+  margin: 26px auto 0 auto;
+}
+.mainsearch {
+  width: 540px;
+}
+input {
+  display: block;
+  width: 100%;
+  height: 25px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  transition: border-color 0.2s ease-in;
+}
+input:focus {
+  border-color: #4285F4;
+}
+.buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+footer {
+  overflow: hidden;
+  font-size: 12px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  padding: 12px 0;
+  background-color: #f5f5f5;
+  border-top: 1px solid #ddd;
+}
+footer a {
+  color: #666;
+}
+footer ul {
+  margin: 0;
+  padding: 0;
+}
+footer li {
+  display: inline;
+  margin: 0 12px;
+}
+.left {
+  float: left;
+  margin-left: 20px;
+}
+.right {
+  float: right;
+  margin-right: 20px;
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.options {
+  vertical-align: middle;
+  margin: 0 14px 2px 14px;
+}
+.menu {
+  margin-left: 122px;
+}
+.menu a {
+  color: #777;
+}
+.menu li {
+  margin-right: 20px;
+}
+.active {
+  font-weight: bold;
+}
+.active a {
+  color: #dd4b39;
+}
+.results {
+  margin-left: 132px;
+  font-size: 12px;
+}
+.how_many {
+  color: #777;
+}
+.search-results {
+  width: 600px;
+  border-bottom: 1px solid #ddd;
+}
+.result-box {
+  margin-bottom: 24px;
+}
+.result-box cite {
+  color: #006621;
+  font-style: normal;
+  padding: 0;
+}
+.result-box p {
+  margin-top: 2px;
+  line-height: 18px;
+}
+.result-box h2 {
+  font-weight: normal;
+  font-size: 18px;
+  margin-bottom: 0;
+}
+.result-box h2 a {
+  color: #1a0dab;
+}
+.result-box h2 a:hover {
+  text-decoration: underline;
+}
+.gooogle {
+  margin-left: 132px;
+  font-size: 12px;
+  margin-bottom: 30px;
+}
+.img-gooogle {
+  margin-left: 120px;
+  margin-top: 20px;
+}
+.ul-gooogle {
+  margin-top: 0;
+  margin-left: 120px;
+}
+.ul-gooogle li {
+  display: inline-block;
+  padding-left: 2px;
+  margin-right: 6px;
+}
+.ul-gooogle li:first-child a {
+  color: #222;
+}
+.ul-gooogle li:nth-last-child(3) {
+  margin-right: 2px;
+}
+.ul-gooogle li:nth-last-child(2) {
+  margin-right: 46px;
+}
+.ul-gooogle li:last-child {
+    font-weight: bold;
+}
+.ul-gooogle li a {
+  color: #1a0dab;
+}
+.footer-results {
+  position: relative;
+}
+.footer-margin {
+  margin-left: 102px;
+}
+img {
+margin-left: 150px;
+margin-top: 19px;
+}
+.active {
+  font-weight:bold
+}

@@ -1,0 +1,132 @@
+p
+
+{
+
+	color: blue;			/* couloeur bleu */
+	text-align: center;		/* le place au centre */
+	padding-left: 208px;	/* le déplace à droite */
+
+}
+
+body
+
+{
+	/* image google de fond */
+	background: url("https://www.google.fr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png") 
+	scroll		/* defile avec le texte*/
+	no-repeat 	/* ne se répète pas */
+	center;		/* est centré */
+
+	font-family: Arial;
+
+}
+
+div
+
+{
+
+	align-items: center;
+
+}
+
+.center
+
+{
+
+     margin: 0 auto;
+     width: 500px;
+
+}
+
+.center2
+
+{
+
+     margin: 0 auto;
+     width: 300px;
+
+}
+
+#bar
+
+{
+
+	width:297px;
+
+}
+
+.droite
+
+{
+
+	float: right;"
+
+}
+
+.footer
+
+{
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    overflow: hidden;
+    background-color: silver;
+
+}
+
+.header
+
+{
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+
+li 
+
+{
+
+    float: left;
+
+}
+
+.li1
+
+{
+
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.li2
+
+{
+
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: gray;
+
+}
+
+.champ
+
+{
+
+	background-image: url(#);
+	width:500px;
+	height:40px;
+
+}
